@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @STG2424
 - 👀 I’m interested in code learning
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html CSS javascript 
 -
 
 <!---
